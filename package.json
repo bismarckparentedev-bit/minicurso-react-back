@@ -1,0 +1,15 @@
+{
+  "name": "minicurso-react-back",
+  "version": "0.1.0",
+  "description": "Backend Hello World do mini-curso de Introducao ao React, Git e Boas Praticas",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
