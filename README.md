@@ -11,6 +11,8 @@ npm install
 npm run dev
 ```
 
+oie
+
 A API sobe em [http://localhost:3001](http://localhost:3001).
 
 ## Endpoint
