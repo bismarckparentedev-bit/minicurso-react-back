@@ -6,8 +6,6 @@ Backend simples em Node.js + Express usado no mini-curso **Introdução ao React
 
 Devolve um `Hello World` em JSON na rota raiz para o front-end consumir.
 
-## Como rodar
-
 ```bash
 npm install
 npm run dev
